@@ -9,7 +9,7 @@ you can run this file using  <mark> nodemon index.js</mark>
 | GET    | /logout       | Log out the current user     |
 
 ##
-### Book Endpoints
+### Quiz Endpoints
 
 | Method | Route            | Description                    |
 |--------|------------------|--------------------------------|
